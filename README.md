@@ -4,5 +4,5 @@
 ## Запуск
 1. Скачайте архив с проектом, по зеленой кнопке или по этой [ссылке](https://github.com/dubkomaxim/bzdSolver/archive/refs/heads/master.zip)
 2. Распакуйте архив. Файл ans.csv должен лежать в той же папке
-3. Откройте скрипт в jupiter среде
+3. Откройте скрипт и запустите в jupiter среде ([инструкция](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) для vs code)
 4. Следуйте инструкциям внутри
